@@ -1,20 +1,15 @@
-# TidyTier GitHub Pages Website
+# TidyTier AI SaaS Website
 
-A simple static website for TidyTier, ready to publish with GitHub Pages.
+Professional GitHub Pages website for TidyTier AI.
 
-## Before Publishing
-1. Replace placeholder product image sections with your real product images.
-2. Replace `support@tidytier.com` with your real business email.
-3. Confirm your Amazon product link is correct: https://www.amazon.com/dp/B0FTTPCXH6
-4. Update privacy/terms language if needed.
+## Upload to GitHub
+Upload all files and the assets folder to the `tidytier` repository.
 
-## Publish on GitHub Pages
-1. Create a new GitHub repository named `tidytier`.
-2. Upload all files from this folder.
-3. Go to Settings → Pages.
-4. Under Build and deployment, choose:
-   - Source: Deploy from a branch
-   - Branch: main
-   - Folder: /root
-5. Save.
-6. GitHub will give you a live website URL.
+## GitHub Pages
+Settings → Pages → Deploy from branch → main → /(root)
+
+## Live URL
+https://tidytier.github.io/tidytier/
+
+## Before submitting to Amazon
+Replace `support@tidytier.com` with your real support email if different.
